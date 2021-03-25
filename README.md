@@ -5,3 +5,6 @@ A collection of OpenBlocks's art assets.
 - White - **#FFFFFF**
 - Blue #1 - **#2196f3**
 - Blue #2 - **#1976d2**
+
+**Font(s) used:**
+- [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
