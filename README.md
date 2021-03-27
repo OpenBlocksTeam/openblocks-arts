@@ -8,3 +8,5 @@ A collection of OpenBlocks's art assets.
 
 **Font(s) used:**
 - [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
+
+> If you make any new asset(s), please be consistent with our design. Thanks!
